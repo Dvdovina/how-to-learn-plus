@@ -6,11 +6,6 @@
     padding-bottom: 30px; 
 }
 
-.two-columns__paragraph:nth-of-type(3n) {
-    padding-bottom: 0;
-    
-}
-
 .two-columns__paragraph:last-child {
     padding-bottom: 0;
     

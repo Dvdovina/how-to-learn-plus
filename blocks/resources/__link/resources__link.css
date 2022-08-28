@@ -1,0 +1,9 @@
+.resources__link {
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+.resources__link:hover {
+    opacity: 0.3;
+  }

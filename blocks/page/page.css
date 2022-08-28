@@ -5,13 +5,4 @@
     font-family: 'Inter', Arial, sans-serif;
   }
 
-  a {
-    transition-property: opacity;
-    transition-duration: 0.5s;
-    transition-timing-function: linear;
-  }
-
-
-  a:hover {
-    opacity: 0.3;
-  }
+ 

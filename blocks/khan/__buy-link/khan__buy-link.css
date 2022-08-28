@@ -5,4 +5,11 @@
     font-weight: normal;
     color: #2f80ed; 
     white-space: nowrap;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
 }
+
+.khan__buy-link:hover {
+    opacity: 0.3;
+  }
