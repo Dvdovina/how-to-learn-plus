@@ -1,7 +1,6 @@
 .cards__item {
-    display: flex;
-    flex-direction: column;
-    flex-basis: auto;
-    width: 240px;
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  width: 240px;
 }
-
