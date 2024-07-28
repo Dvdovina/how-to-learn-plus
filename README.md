@@ -6,8 +6,7 @@
 <li>The CSS file structure of the project was created according to the BEM methodology.</li>
 <li>Static web page (max width: 1600px)
 </ul>
-<br/><br/>
-
+<br/>
 
 # 💻 Научиться учиться
 ### Учебный проект по статической верстке веб-страниц для Яндекс Практикум.
